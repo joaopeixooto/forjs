@@ -34,11 +34,11 @@
 // }
 // console.log(`A soma dos números pares de 0 a 100: ${accPair}`);
 
-let accOdd = 0
-for (let i = 0; i <= 100; i++) {
-    if (i % 2 === 1) {
-        console.log(i);
-        accOdd += i
-    }
-}
-console.log(`A soma dos números ímpares de 0 a 100: ${accOdd}`);
+// let accOdd = 0
+// for (let i = 0; i <= 100; i++) {
+//     if (i % 2 === 1) {
+//         console.log(i);
+//         accOdd += i
+//     }
+// }
+// console.log(`A soma dos números ímpares de 0 a 100: ${accOdd}`);
