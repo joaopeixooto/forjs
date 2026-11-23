@@ -1,4 +1,4 @@
-//Bloco 3: Swtich
+// Bloco 3: Swtich
 
 // 15.
 let last_digit = Number(prompt(`Digite o último digito da placa do veículo:`));

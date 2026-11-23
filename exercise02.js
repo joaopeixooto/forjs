@@ -1,4 +1,4 @@
-//Bloco 2: Comparações, if, else e else if
+// Bloco 2: Comparações, if, else e else if
 
 // 6.
 let gasoline_price = parseFloat(prompt(`Digite o preço da gasolina:`));
