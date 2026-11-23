@@ -14,12 +14,11 @@
 //     }
 // }
 
-// 21.
-let height = Number(prompt(`Digite a altura da escada:`));
-let s = "#";
-let n = "\n";
-for (let i = 0; i < height; i++) {
-    
-}
+// 21. ------------------ incompleto
+// let height = Number(prompt(`Digite a altura da escada:`));
+// let stairs = "#"
+// for (let N = 0; N < 1; N++) {
+//     console.log(`   #\n  ##\n ###\n####`);
+// }
 
-console.log(`  ${s}${n} ${s}${s}${n}${s}${s}${s}`)
+// 22.
